@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Library",
+    "\\Library\\bin",
+    "\\Library\\bin\\Debug",
+    "\\Library\\bin\\Release",
+    "\\Library\\Models",
+    "\\Library\\Repositories",
+    "\\Library\\Services"
+  ],
+  "SelectedNode": "\\Library.sln",
+  "PreviewInSolutionExplorer": false
+}
